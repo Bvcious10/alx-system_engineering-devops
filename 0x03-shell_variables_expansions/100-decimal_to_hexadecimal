@@ -1,5 +1,3 @@
 #!/bin/bash
-printf '%x
-' 
-#!/bin/bash
-printf"%xn"$DECIMAL
+printf%x
+$DECIMAL
